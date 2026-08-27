@@ -17,8 +17,6 @@ Website ini menyajikan informasi profil, sejarah perjalanan karier, serta biodat
 
 ---
 
----
-
 ## ⚙️ Petunjuk Pengaturan
 
 1. **Prasyarat**
