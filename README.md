@@ -1,13 +1,32 @@
-# TWICE Universe
+# TWICE Web
 
-## ℹ️ About
+## 📌 Deskripsi
 
-TWICE Universe is a web platform dedicated to providing fans with comprehensive information about the K-pop girl group, TWICE.
+Website ini menyajikan informasi profil, sejarah perjalanan karier, serta biodata dari seluruh anggota grup musik TWICE. Antarmuka halaman memuat struktur data yang terorganisasi, mencakup kilas balik debut grup, profil sembilan anggota, dan informasi fandom.
 
-## 🛠️ Technologies Used
+---
 
-- 🌐 **Programming Language:** JavaScript.
-- 📄 **Markup Language:** HTML.
-- 🎨 **Stylesheet Language:** CSS.
-- 💻 **Software:** Visual Studio Code.
-- 🚀 **Deployment:** Netlify.
+## 🛠️ Tech Stack
+
+| Kategori                    | Teknologi yang Digunakan |
+| :-------------------------- | :----------------------- |
+| 🌐 **Programming Language** | `JavaScript`             |
+| 📄 **Markup Language**      | `HTML`                   |
+| 🎨 **Style Sheet Language** | `CSS`                    |
+| 🚀 **Deployment**           | `Netlify`                |
+
+---
+
+---
+
+## ⚙️ Petunjuk Pengaturan
+
+1. **Prasyarat**
+   - Git terinstal di komputer.
+
+2. **Clone Repositori**
+
+```bash
+git clone https://github.com/Fikri-Rouzan/twice-web.git
+cd twice-web
+```

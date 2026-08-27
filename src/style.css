@@ -98,7 +98,6 @@ section {
   width: 100%;
   padding: 1rem;
   animation: float 3s linear infinite;
-  cursor: pointer;
 }
 
 .twice > .fandom {
@@ -109,7 +108,6 @@ section {
   width: 100%;
   padding: 1rem;
   animation: float 3s linear infinite;
-  cursor: pointer;
 }
 
 @keyframes float {
@@ -140,7 +138,6 @@ section {
   margin: 1.5rem 0;
   object-fit: cover;
   transition: transform 0.3s ease;
-  cursor: pointer;
 }
 
 .about > .card > .card-box > img:hover {
@@ -222,7 +219,6 @@ section {
   margin: 1.5rem 0;
   object-fit: cover;
   transition: transform 0.3s ease;
-  cursor: pointer;
 }
 
 .member > .card > .card-box > .content > img:hover {
@@ -257,7 +253,6 @@ section {
   margin: 1.5rem 0;
   object-fit: cover;
   transition: transform 0.3s ease;
-  cursor: pointer;
 }
 
 .information > .card > .card-box > img:hover {
